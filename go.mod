@@ -1,4 +1,4 @@
-module github.com/you/project/protos
+module github.com/Rushannn/gRPS-protos
 
 go 1.24.5
 
